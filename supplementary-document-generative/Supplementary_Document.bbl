@@ -1,0 +1,28 @@
+\begin{thebibliography}{1}
+
+\bibitem{sketchy}
+Sangkloy, P., Burnell, N., Ham, C., Hays, J.:
+\newblock The sketchy database: learning to retrieve badly drawn bunnies.
+\newblock {ACM} Trans. Graph. \textbf{35}(4) (2016)  119:1--119:12
+
+\bibitem{KrizhevskySH12}
+Krizhevsky, A., Sutskever, I., Hinton, G.E.:
+\newblock Imagenet classification with deep convolutional neural networks.
+\newblock In: Advances in Neural Information Processing Systems 25: 26th Annual
+  Conference on Neural Information Processing Systems 2012. Proceedings of a
+  meeting held December 3-6, 2012, Lake Tahoe, Nevada, United States. (2012)
+  1106--1114
+
+\bibitem{SzegedyLJSRAEVR15}
+Szegedy, C., Liu, W., Jia, Y., Sermanet, P., Reed, S.E., Anguelov, D., Erhan,
+  D., Vanhoucke, V., Rabinovich, A.:
+\newblock Going deeper with convolutions.
+\newblock In: {IEEE} Conference on Computer Vision and Pattern Recognition,
+  {CVPR} 2015, Boston, MA, USA, June 7-12, 2015. (2015)  1--9
+
+\bibitem{KingmaB14}
+Kingma, D.P., Ba, J.:
+\newblock Adam: {A} method for stochastic optimization.
+\newblock CoRR \textbf{abs/1412.6980} (2014)
+
+\end{thebibliography}

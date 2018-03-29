@@ -1,0 +1,373 @@
+\begin{thebibliography}{10}
+
+\bibitem{SaavedraB10}
+Saavedra, J.M., Bustos, B.:
+\newblock An improved histogram of edge local orientations for sketch-based
+  image retrieval.
+\newblock In: Pattern Recognition - 32nd {DAGM} Symposium, Darmstadt, Germany,
+  September 22-24, 2010. Proceedings. (2010)  432--441
+
+\bibitem{sketchanet}
+Yu, Q., Yang, Y., Liu, F., Song, Y., Xiang, T., Hospedales, T.M.:
+\newblock Sketch-a-net: {A} deep neural network that beats humans.
+\newblock International Journal of Computer Vision \textbf{122}(3)  411--425
+
+\bibitem{2012sketchhash}
+Bozas, K., Izquierdo, E.:
+\newblock Large scale sketch based image retrieval using patch hashing.
+\newblock In: Advances in Visual Computing - 8th International Symposium,
+  {ISVC} 2012, Rethymnon, Crete, Greece, July 16-18, 2012, Revised Selected
+  Papers, Part {I}. (2012)  210--219
+
+\bibitem{Yu2016shoes}
+Yu, Q., Liu, F., Song, Y., Xiang, T., Hospedales, T.M., Loy, C.C.:
+\newblock Sketch me that shoe.
+\newblock In: 2016 {IEEE} Conference on Computer Vision and Pattern
+  Recognition, {CVPR} 2016, Las Vegas, NV, USA, June 27-30, 2016. (2016)
+  799--807
+
+\bibitem{SangkloyBHH16}
+Sangkloy, P., Burnell, N., Ham, C., Hays, J.:
+\newblock The sketchy database: learning to retrieve badly drawn bunnies.
+\newblock {ACM} Trans. Graph. \textbf{35}(4) (2016)  119:1--119:12
+
+\bibitem{SongYSXH17}
+Song, J., Yu, Q., Song, Y., Xiang, T., Hospedales, T.M.:
+\newblock Deep spatial-semantic attention for fine-grained sketch-based image
+  retrieval.
+\newblock In: {IEEE} International Conference on Computer Vision, {ICCV} 2017,
+  Venice, Italy, October 22-29, 2017. (2017)  5552--5561
+
+\bibitem{EitzHBA10}
+Eitz, M., Hildebrand, K., Boubekeur, T., Alexa, M.:
+\newblock An evaluation of descriptors for large-scale image retrieval from
+  sketched feature lines.
+\newblock Computers {\&} Graphics \textbf{34}(5) (2010)  482--498
+
+\bibitem{LiuSSLS17}
+Liu, L., Shen, F., Shen, Y., Liu, X., Shao, L.:
+\newblock Deep sketch hashing: Fast free-hand sketch-based image retrieval.
+\newblock In: 2017 {IEEE} Conference on Computer Vision and Pattern
+  Recognition, {CVPR} 2017, Honolulu, HI, USA, July 21-26, 2017. (2017)
+  2298--2307
+
+\bibitem{SaavedraB15}
+Saavedra, J.M., Barrios, J.M.:
+\newblock Sketch based image retrieval using learned keyshapes {(LKS)}.
+\newblock In: Proceedings of the British Machine Vision Conference 2015, {BMVC}
+  2015, Swansea, UK, September 7-10, 2015. (2015)  164.1--164.11
+
+\bibitem{hu2010}
+Hu, R., Barnard, M., Collomosse, J.P.:
+\newblock Gradient field descriptor for sketch based retrieval and
+  localization.
+\newblock In: Proceedings of the International Conference on Image Processing,
+  {ICIP} 2010, September 26-29, Hong Kong, China. (2010)  1025--1028
+
+\bibitem{ParuiM14}
+Parui, S., Mittal, A.:
+\newblock Similarity-invariant sketch-based image retrieval in large databases.
+\newblock In: Computer Vision - {ECCV} 2014 - 13th European Conference, Zurich,
+  Switzerland, September 6-12, 2014, Proceedings, Part {VI}. (2014)  398--414
+
+\bibitem{dalal2005}
+Dalal, N., Triggs, B.:
+\newblock Histograms of oriented gradients for human detection.
+\newblock In: 2005 {IEEE} Computer Society Conference on Computer Vision and
+  Pattern Recognition {(CVPR} 2005), 20-26 June 2005, San Diego, CA, {USA}.
+  (2005)  886--893
+
+\bibitem{hu2010_1}
+Hu, R., Collomosse, J.P.:
+\newblock A performance evaluation of gradient field {HOG} descriptor for
+  sketch based image retrieval.
+\newblock Computer Vision and Image Understanding \textbf{117}(7) (2013)
+  790--806
+
+\bibitem{Saavedra14}
+Saavedra, J.M.:
+\newblock Sketch based image retrieval using a soft computation of the
+  histogram of edge local orientations {(S-HELO)}.
+\newblock In: 2014 {IEEE} International Conference on Image Processing, {ICIP}
+  2014, Paris, France, October 27-30, 2014. (2014)  2998--3002
+
+\bibitem{Lowe99}
+Lowe, D.G.:
+\newblock Object recognition from local scale-invariant features.
+\newblock In: {ICCV}. (1999)  1150--1157
+
+\bibitem{IsolaZZE17}
+Isola, P., Zhu, J., Zhou, T., Efros, A.A.:
+\newblock Image-to-image translation with conditional adversarial networks.
+\newblock In: 2017 {IEEE} Conference on Computer Vision and Pattern
+  Recognition, {CVPR} 2017, Honolulu, HI, USA, July 21-26, 2017. (2017)
+  5967--5976
+
+\bibitem{LiHSG14}
+Li, Y., Hospedales, T.M., Song, Y., Gong, S.:
+\newblock Intra-category sketch-based image retrieval by matching deformable
+  part models.
+\newblock In: British Machine Vision Conference, {BMVC} 2014, Nottingham, UK,
+  September 1-5, 2014. (2014)
+
+\bibitem{DH15cvpr}
+Liong, V.E., Lu, J., Wang, G., Moulin, P., Zhou, J.:
+\newblock Deep hashing for compact binary codes learning.
+\newblock In: Proc. CVPR. (2015)  2475--2483
+
+\bibitem{liu2014discrete}
+Liu, W., Mu, C., Kumar, S., Chang, S.F.:
+\newblock Discrete graph hashing.
+\newblock In: Proc. NIPS. (2014)  3419--3427
+
+\bibitem{KSH2012}
+Liu, W., Wang, J., Ji, R., Jiang, Y.G., Chang, S.F.:
+\newblock Supervised hashing with kernels.
+\newblock In: Proc. CVPR. (2012)  2074--2081
+
+\bibitem{shen2015supervised}
+Shen, F., Shen, C., Liu, W., Shen, H.T.:
+\newblock Supervised discrete hashing.
+\newblock In: Proc. CVPR. (2015)  37--45
+
+\bibitem{SH08}
+Weiss, Y., Torralba, A., Fergus, R.:
+\newblock Spectral hashing.
+\newblock In: Proc. NIPS. (2008)  1753--1760
+
+\bibitem{zhang2016efficient}
+Zhang, Z., Chen, Y., Saligrama, V.:
+\newblock Efficient training of very deep neural networks for supervised
+  hashing.
+\newblock In: Proc. CVPR. (2016)  1487--1495
+
+\bibitem{shen2017tmm}
+Shen, F., Yang, Y., Liu, L., Liu, W., Dacheng~Tao, H.T.S.:
+\newblock Asymmetric binary coding for image search.
+\newblock {IEEE} TMM \textbf{19}(9) (2017)  2022--2032
+
+\bibitem{qin2017action}
+Qin, J., Liu, L., Shao, L., Ni, B., Chen, C., Shen, F., Wang, Y.:
+\newblock Binary coding for partial action analysis with limited observation
+  ratios.
+\newblock In: Proc. CVPR. (2017)  146--155
+
+\bibitem{liu2017coding}
+Liu, L., Shao, L., Shen, F., Yu, M.:
+\newblock Discretely coding semantic rank orders for image hashing.
+\newblock In: Proc. CVPR. (2017)  1425--1434
+
+\bibitem{goodfellow2014generative}
+Goodfellow, I., Pouget-Abadie, J., Mirza, M., Xu, B., Warde-Farley, D., Ozair,
+  S., Courville, A., Bengio, Y.:
+\newblock Generative adversarial nets.
+\newblock In: Advances in neural information processing systems. (2014)
+  2672--2680
+
+\bibitem{denton2015deep}
+Denton, E.L., Chintala, S., Fergus, R.,  et~al.:
+\newblock Deep generative image models using a laplacian pyramid of adversarial
+  networks.
+\newblock In: Advances in neural information processing systems. (2015)
+  1486--1494
+
+\bibitem{mathieu2016disentangling}
+Mathieu, M.F., Zhao, J.J., Zhao, J., Ramesh, A., Sprechmann, P., LeCun, Y.:
+\newblock Disentangling factors of variation in deep representation using
+  adversarial training.
+\newblock In: Advances in Neural Information Processing Systems. (2016)
+  5040--5048
+
+\bibitem{sangkloy2017scribbler}
+Sangkloy, P., Lu, J., Fang, C., Yu, F., Hays, J.:
+\newblock Scribbler: Controlling deep image synthesis with sketch and color.
+\newblock In: IEEE Conference on Computer Vision and Pattern Recognition
+  (CVPR). Volume~2. (2017)
+
+\bibitem{pix2pix2017}
+Isola, P., Zhu, J.Y., Zhou, T., Efros, A.A.:
+\newblock Image-to-image translation with conditional adversarial networks.
+\newblock (2017)
+
+\bibitem{ZhuPIE17}
+Zhu, J., Park, T., Isola, P., Efros, A.A.:
+\newblock Unpaired image-to-image translation using cycle-consistent
+  adversarial networks.
+\newblock In: {IEEE} International Conference on Computer Vision, {ICCV} 2017,
+  Venice, Italy, October 22-29, 2017. (2017)  2242--2251
+
+\bibitem{BuiRPC16}
+Bui, T., Ribeiro, L., Ponti, M., Collomosse, J.P.:
+\newblock Generalisation and sharing in triplet convnets for sketch based
+  visual search.
+\newblock CoRR \textbf{abs/1611.05301} (2016)
+
+\bibitem{XuYHSMWXKG18}
+Xu, P., Yin, Q., Huang, Y., Song, Y., Ma, Z., Wang, L., Xiang, T., Kleijn,
+  W.B., Guo, J.:
+\newblock Cross-modal subspace learning for fine-grained sketch-based image
+  retrieval.
+\newblock Neurocomputing \textbf{278} (2018)  75--86
+
+\bibitem{LiPSHZH16}
+Li, K., Pang, K., Song, Y., Hospedales, T.M., Zhang, H., Hu, Y.:
+\newblock Fine-grained sketch-based image retrieval: The role of part-aware
+  attributes.
+\newblock In: 2016 {IEEE} Winter Conference on Applications of Computer Vision,
+  {WACV} 2016, Lake Placid, NY, USA, March 7-10, 2016. (2016)  1--9
+
+\bibitem{QiSZL16}
+Qi, Y., Song, Y., Zhang, H., Liu, J.:
+\newblock Sketch-based image retrieval via siamese convolutional neural
+  network.
+\newblock In: 2016 {IEEE} International Conference on Image Processing, {ICIP}
+  2016, Phoenix, AZ, USA, September 25-28, 2016. (2016)  2460--2464
+
+\bibitem{XuYQSMWG16}
+Xu, P., Yin, Q., Qi, Y., Song, Y., Ma, Z., Wang, L., Guo, J.:
+\newblock Instance-level coupled subspace learning for fine-grained
+  sketch-based image retrieval.
+\newblock In: Computer Vision - {ECCV} 2016 Workshops - Amsterdam, The
+  Netherlands, October 8-10 and 15-16, 2016, Proceedings, Part {I}. (2016)
+  19--34
+
+\bibitem{LiPSHXZ17}
+Li, K., Pang, K., Song, Y., Hospedales, T.M., Xiang, T., Zhang, H.:
+\newblock Synergistic instance-level subspace alignment for fine-grained
+  sketch-based image retrieval.
+\newblock {IEEE} Trans. Image Processing \textbf{26}(12) (2017)  5908--5921
+
+\bibitem{song2017deep}
+Song, J., Qian, Y., Song, Y.Z., Xiang, T., Hospedales, T.:
+\newblock Deep spatial-semantic attention for fine-grained sketch-based image
+  retrieval.
+\newblock In: ICCV. (2017)
+
+\bibitem{abs-1711-09347}
+Zhang, X., Zhou, S., Feng, J., Lai, H., Li, B., Pan, Y., Yin, J., Yan, S.:
+\newblock Hashgan: Attention-aware deep adversarial hashing for cross modal
+  retrieval.
+\newblock CoRR \textbf{abs/1711.09347} (2017)
+
+\bibitem{HeZRS16}
+He, K., Zhang, X., Ren, S., Sun, J.:
+\newblock Deep residual learning for image recognition.
+\newblock In: 2016 {IEEE} Conference on Computer Vision and Pattern
+  Recognition, {CVPR} 2016, Las Vegas, NV, USA, June 27-30, 2016. (2016)
+  770--778
+
+\bibitem{GuiLSTT18}
+Gui, J., Liu, T., Sun, Z., Tao, D., Tan, T.:
+\newblock Fast supervised discrete hashing.
+\newblock {IEEE} Trans. Pattern Anal. Mach. Intell. \textbf{40}(2) (2018)
+  490--496
+
+\bibitem{EitzHA12}
+Eitz, M., Hays, J., Alexa, M.:
+\newblock How do humans sketch objects?
+\newblock {ACM} Trans. Graph. \textbf{31}(4) (2012)  44:1--44:10
+
+\bibitem{deng2009imagenet}
+Deng, J., Dong, W., Socher, R., Li, L.J., Li, K., Fei-Fei, L.:
+\newblock Imagenet: A large-scale hierarchical image database.
+\newblock In: Proc. CVPR. (2009)  248--255
+
+\bibitem{0008LZRWC16}
+Zhang, H., Liu, S., Zhang, C., Ren, W., Wang, R., Cao, X.:
+\newblock Sketchnet: Sketch classification with web images.
+\newblock In: 2016 {IEEE} Conference on Computer Vision and Pattern
+  Recognition, {CVPR} 2016, Las Vegas, NV, USA, June 27-30, 2016. (2016)
+  1105--1113
+
+\bibitem{WangKL15}
+Wang, F., Kang, L., Li, Y.:
+\newblock Sketch-based 3d shape retrieval using convolutional neural networks.
+\newblock In: {IEEE} Conference on Computer Vision and Pattern Recognition,
+  {CVPR} 2015, Boston, MA, USA, June 7-12, 2015. (2015)  1875--1883
+
+\bibitem{DingGZ14}
+Ding, G., Guo, Y., Zhou, J.:
+\newblock Collective matrix factorization hashing for multimodal data.
+\newblock In: 2014 {IEEE} Conference on Computer Vision and Pattern
+  Recognition, {CVPR} 2014, Columbus, OH, USA, June 23-28, 2014. (2014)
+  2083--2090
+
+\bibitem{BronsteinBMP10}
+Bronstein, M.M., Bronstein, A.M., Michel, F., Paragios, N.:
+\newblock Data fusion through cross-modality metric learning using
+  similarity-sensitive hashing.
+\newblock In: The Twenty-Third {IEEE} Conference on Computer Vision and Pattern
+  Recognition, {CVPR} 2010, San Francisco, CA, USA, 13-18 June 2010. (2010)
+  3594--3601
+
+\bibitem{KumarU11}
+Kumar, S., Udupa, R.:
+\newblock Learning hash functions for cross-view similarity search.
+\newblock In: {IJCAI} 2011, Proceedings of the 22nd International Joint
+  Conference on Artificial Intelligence, Barcelona, Catalonia, Spain, July
+  16-22, 2011. (2011)  1360--1365
+
+\bibitem{ZhangL14}
+Zhang, D., Li, W.:
+\newblock Large-scale supervised multimodal hashing with semantic correlation
+  maximization.
+\newblock In: Proceedings of the Twenty-Eighth {AAAI} Conference on Artificial
+  Intelligence, July 27 -31, 2014, Qu{\'{e}}bec City, Qu{\'{e}}bec, Canada.
+  (2014)  2177--2183
+
+\bibitem{LinDH015}
+Lin, Z., Ding, G., Hu, M., Wang, J.:
+\newblock Semantics-preserving hashing for cross-view retrieval.
+\newblock In: {IEEE} Conference on Computer Vision and Pattern Recognition,
+  {CVPR} 2015, Boston, MA, USA, June 7-12, 2015. (2015)  3864--3872
+
+\bibitem{JiangL17}
+Jiang, Q., Li, W.:
+\newblock Deep cross-modal hashing.
+\newblock In: 2017 {IEEE} Conference on Computer Vision and Pattern
+  Recognition, {CVPR} 2017, Honolulu, HI, USA, July 21-26, 2017. (2017)
+  3270--3278
+
+\bibitem{ViaSP05}
+V{\'{\i}}a, J., Santamar{\'{\i}}a, I., P{\'{e}}rez, J.:
+\newblock Canonical correlation analysis {(CCA)} algorithms for multiple data
+  sets: Application to blind {SIMO} equalization.
+\newblock In: 13th European Signal Processing Conference, {EUSIPCO} 2005,
+  Antalya, Turkey, September 4-8, 2005. (2005)  1--4
+
+\bibitem{LiuMHCZ18}
+Liu, H., Ma, Z., Han, J., Chen, Z., Zheng, Z.:
+\newblock Regularized partial least squares for multi-label learning.
+\newblock Int. J. Machine Learning {\&} Cybernetics \textbf{9}(2) (2018)
+  335--346
+
+\bibitem{LiaoHZL15}
+Liao, S., Hu, Y., Zhu, X., Li, S.Z.:
+\newblock Person re-identification by local maximal occurrence representation
+  and metric learning.
+\newblock In: {IEEE} Conference on Computer Vision and Pattern Recognition,
+  {CVPR} 2015, Boston, MA, USA, June 7-12, 2015. (2015)  2197--2206
+
+\bibitem{XiePX14}
+Xie, W., Peng, Y., Xiao, J.:
+\newblock Cross-view feature learning for scalable social image analysis.
+\newblock In: Proceedings of the Twenty-Eighth {AAAI} Conference on Artificial
+  Intelligence, July 27 -31, 2014, Qu{\'{e}}bec City, Qu{\'{e}}bec, Canada.
+  (2014)  201--207
+
+\bibitem{KingmaB14}
+Kingma, D.P., Ba, J.:
+\newblock Adam: {A} method for stochastic optimization.
+\newblock CoRR \textbf{abs/1412.6980} (2014)
+
+\bibitem{LiHSG15}
+Li, Y., Hospedales, T.M., Song, Y., Gong, S.:
+\newblock Free-hand sketch recognition by multi-kernel feature learning.
+\newblock Computer Vision and Image Understanding \textbf{137} (2015)  1--11
+
+\bibitem{abs-1710-09412}
+Zhang, H., Ciss{\'{e}}, M., Dauphin, Y.N., Lopez{-}Paz, D.:
+\newblock mixup: Beyond empirical risk minimization.
+\newblock CoRR \textbf{abs/1710.09412} (2017)
+
+\end{thebibliography}
